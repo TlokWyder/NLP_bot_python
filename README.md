@@ -1,2 +1,2 @@
 # NLP_bot_python
-is mid/end term project 
+is mid/end term course project 

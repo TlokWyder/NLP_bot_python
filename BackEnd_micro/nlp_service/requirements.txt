@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+natasha
+sentence-transformers
+requests
+python-dotenv
