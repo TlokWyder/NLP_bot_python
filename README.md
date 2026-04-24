@@ -34,3 +34,5 @@ is mid/end term course project
 2. **Установите зависимости:**
    ```bash
    pip install django python-dotenv supabase
+
+<img width="779" height="449" alt="image" src="https://github.com/user-attachments/assets/f013ab94-db39-4355-bf6c-dc2435091dd3" />
