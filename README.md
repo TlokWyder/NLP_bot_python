@@ -36,3 +36,8 @@ is mid/end term course project
    pip install django python-dotenv supabase
 
 <img width="779" height="449" alt="image" src="https://github.com/user-attachments/assets/f013ab94-db39-4355-bf6c-dc2435091dd3" />
+
+<img width="742" height="309" alt="image" src="https://github.com/user-attachments/assets/fc3631d7-8ef1-4201-b937-5776f622ecfa" />
+
+<img width="772" height="539" alt="image" src="https://github.com/user-attachments/assets/bd955a01-6333-451d-b140-8241fe7e3298" />
+
